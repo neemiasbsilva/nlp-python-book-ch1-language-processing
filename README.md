@@ -1,8 +1,9 @@
-# Natural Language Processing with Python: Chapter 1: Exercises
+# Natural Language Processing with Python
+###### Chapter 1: Exercises
 
 ## About
 
-The purpose of this repository is to show my solutions for the first chapter of the book **Natural Language Processing with Python**. For more details about the concepts you can access the following reference.
+The purpose of this repository is to show my solutions of the exercises for the first chapter of the book **Natural Language Processing with Python**. For more details about the concepts you can access the following reference.
 
 > -- <cite>[Bird et al., 2009][1]</cite>.
 
